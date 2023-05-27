@@ -9,8 +9,8 @@
 *
 */
 
-import "NonFungibleToken"
-import "MetadataViews"
+// import "NonFungibleToken"
+// import "MetadataViews"
 import "ViewResolver"
 
 pub contract ExampleNFT: NonFungibleToken, ViewResolver {
