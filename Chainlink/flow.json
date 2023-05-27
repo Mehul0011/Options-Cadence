@@ -29,7 +29,7 @@
 	},
 	"accounts": {
 		"default": {
-			"address": "e03daebed8ca0615",
+			"address": "06909bc5ba14c266",
 			"key": "d2c3686da84d61c13627bdf2127866fe358165734f5470be792e6771901d2856"
 		},
 		"emulator-account": {
@@ -37,11 +37,11 @@
 			"key": "d2c3686da84d61c13627bdf2127866fe358165734f5470be792e6771901d2856"
 		},
 		"exampleNFT": {
-			"address": "045a1763c93006ca",
+			"address": "10c4fef62310c807",
 			"key": "d2c3686da84d61c13627bdf2127866fe358165734f5470be792e6771901d2856"
 		},
 		"standards": {
-			"address": "120e725050340cab",
+			"address": "f4a3472b32eac8d8",
 			"key": "d2c3686da84d61c13627bdf2127866fe358165734f5470be792e6771901d2856"
 		}
 	},
